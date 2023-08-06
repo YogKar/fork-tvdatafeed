@@ -16,7 +16,7 @@ pip install tvdatafeed
 or installing from github repo
 
 ```sh
-pip install --upgrade --no-cache-dir git+https://github.com/YogKar/tvdatafeed.git
+pip install --upgrade --no-cache-dir git+https://github.com/YogKar/fork-tvdatafeed.git
 ```
 
 For usage instructions, watch these videos-
